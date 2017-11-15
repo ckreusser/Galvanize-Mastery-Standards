@@ -1,20 +1,20 @@
 # Describe Agile Principles
 
-### Describe the 4 agile values
+## Describe the 4 agile values
 
-###### Individuals and interactions over processes and tools
+### Individuals and interactions over processes and tools
 
 This value puts people first. It recognizes that collaboration and teamwork are a potential path to greatness. Conversely, over-valuing processes and tools is a path to the predictable.
 
-##### Working software over comprehensive documentation
+### Working software over comprehensive documentation
 
 It's better to iterate and have an app evolve from its MVP state. Comprehensive documentation is only valid so long as the app remains unchanged. Moreover, a quality app's functionality should be immediately apparent to the user.
 
-##### Customer collaboration over contract negotiation
+### Customer collaboration over contract negotiation
 
 Contract negotiation is a bottleneck. It can limit the potential of an idea long before it has reached its apex. By having an open dialogue with a customer (through a designated team-member) it's much more likely that they will receive the product that they set out to create.
 
-##### Responding to change over following a plan
+### Responding to change over following a plan
 
 Following a plan can yield tremendous results. However, things so rarely go according to plan. Being capable of moving to an area of need will result in a better product in the long-run.
 
